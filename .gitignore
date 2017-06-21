@@ -1,16 +1,25 @@
+<<<<<<< HEAD
 # Eclipse
 .classpath
 .project
 .settings/
 
+=======
+>>>>>>> origin/master
 # Intellij
 .idea/
 *.iml
 *.iws
 
+<<<<<<< HEAD
 # Mac
 .DS_Store
 
 # Maven
 log/
 target/
+=======
+# Maven
+log/
+target/
+>>>>>>> origin/master
