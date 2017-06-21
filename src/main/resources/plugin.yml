@@ -1,0 +1,10 @@
+name: PlayerStats
+author: Kopwithit
+description: Profile stats plugin
+version: 1.0
+main: com.kopwithit.playerstats.PlayerStats
+commands:
+   stats:
+      description: Displays player stats
+   playerstats:
+      description: Edit a players stats
